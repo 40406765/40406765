@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @40406765 ... call me tom
-- 👀 I’m interested in ... securitz, SAP and HitHub of course
+- 👀 I’m interested in ... security, SAP and GitHub of course (also a little bit of chess)
 - 🌱 I’m currently learning ... at IBM, all kinds of stuff what a Cosultant is doing
 - 💞️ I’m looking to collaborate on ... especially security aspects
 - 📫 How to reach me ... at thoweilacher@gmail.com
